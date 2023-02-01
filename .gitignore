@@ -1,0 +1,9 @@
+/.idea/
+/nbproject/private/
+/build/
+/dist/
+/out/
+/db/pus2022.db
+/clientUI.properties
+/server.properties
+/clientUI.db-*
